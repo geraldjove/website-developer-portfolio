@@ -6,6 +6,23 @@
     box-sizing: border-box;
 }
 
+.profilePic {
+    background-color: black !important;
+    border: 10px solid black;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 0%;
+}
+
+.imgShadow {
+    box-shadow: 10px 15px 10px 1px rgba(0, 0, 0, 0.25);
+}
+
+.boxStroke {
+    border: 5px solid rgb(24, 20, 20);
+}
+
 .App {
     text-align: center;
 }
