@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/website-developer-portfolio/static/css/main.6dbee7f7.css",
+    "main.js": "/website-developer-portfolio/static/js/main.ac4b0622.js",
+    "static/media/web-design.jpg": "/website-developer-portfolio/static/media/web-design.f0854b58c296368523e5.jpg",
+    "static/media/ecommerce.JPG": "/website-developer-portfolio/static/media/ecommerce.a4c2f27456ac52c09261.JPG",
+    "static/media/profile_1.jpg": "/website-developer-portfolio/static/media/profile_1.8098633da25bad5891f7.jpg",
+    "static/media/things-to-do.JPG": "/website-developer-portfolio/static/media/things-to-do.61b66d0ffc8325f3618c.JPG",
+    "static/media/forex.JPG": "/website-developer-portfolio/static/media/forex.5b1421d6fdad36a34653.JPG",
+    "static/media/php.png": "/website-developer-portfolio/static/media/php.d6e32fa469b805858684.png",
+    "static/media/mysql.png": "/website-developer-portfolio/static/media/mysql.a04abbf76b39676bc4d9.png",
+    "index.html": "/website-developer-portfolio/index.html",
+    "main.6dbee7f7.css.map": "/website-developer-portfolio/static/css/main.6dbee7f7.css.map",
+    "main.ac4b0622.js.map": "/website-developer-portfolio/static/js/main.ac4b0622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dbee7f7.css",
+    "static/js/main.ac4b0622.js"
+  ]
+}
